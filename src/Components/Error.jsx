@@ -1,5 +1,5 @@
 import Navbar from "./Navbar"
-import "../assets/css/ErrorPage.css";
+import "../assets/CSS/Error.css"
 
 const Error = () => {
   return (
