@@ -73,8 +73,8 @@ function Footer(){
 
                 <hr />
 
-                <h6 className="hero-subtext text-center">@Finpay 2024 . All Rights Reserved</h6>
-                <h6 className="text-center">
+                <h6 className="text-footer text-center mt-4">@Finpay 2024 . All Rights Reserved</h6>
+                <h6 className="text-center mt-4">
                     <a href="https://www.linkedin.com/in/heydivyapawar/" target="_blank" className="green fw-bold">Developed by Divya Pawar</a>
                 </h6>
             </div>
