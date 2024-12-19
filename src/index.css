@@ -1,0 +1,54 @@
+*{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+body{
+    background-color: #f8f9fa;
+}
+
+.mybg{
+    background-color: #f8f9fa;
+}
+
+.mycolor{
+    color: #180D39;
+}
+
+.green{
+    color: #2A8E9E;
+}
+
+.text-color{
+    color: #1D1E20;
+}
+
+.bg-light-color{
+    color: #E9F3F4;
+}
+
+.my-btn{
+    color: #E9F3F4;
+    background-color: #2A8E9E;
+    border: none;
+    transition: 0.5s ease-in-out;
+}
+
+.my-btn:hover, .my-btn-outline:hover{
+    transform: scale(1.05);
+}
+
+.my-btn-outline{
+    border: 2px solid #2A8E9E;
+    transition: 0.5s ease-in-out;
+}
+
+.hero-subtext{
+    font-family: 20px;
+    color: rgb(125, 124, 124);
+    letter-spacing: 1px;
+}
+
+.hero-text{
+    color: #013247;
+    font-size: 55px;
+}

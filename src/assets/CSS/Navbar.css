@@ -1,0 +1,8 @@
+.navy{
+    color: #180D39;
+    font-weight: bold;
+}
+
+.navy:hover{
+    color: #2A8E9E;
+}

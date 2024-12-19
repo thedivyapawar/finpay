@@ -1,0 +1,32 @@
+.mycolor{
+    color: #180D39;
+}
+
+
+.bold-text{
+    font-size: 79px !important;
+}
+
+.customer-right, .customer-left,  .graph {
+    background-color: #ecf0f0;
+    transition: 0.5s ease-in-out;
+
+}
+
+.img-customer{
+    transition: 0.5s ease-in-out;
+}
+
+.img-customer:hover{
+    transform: scale(1.02);
+}
+
+.customer-left:hover, .customer-right:hover{
+    transform: scale(0.90);
+}
+
+@media only screen  and (max-width:900px) and (min-width:770px){
+    .customer-right-img{
+        width: 250px !important;
+    }
+ }

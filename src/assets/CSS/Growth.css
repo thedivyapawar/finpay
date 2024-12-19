@@ -1,0 +1,32 @@
+.font-growth{
+    font-size: 70px;
+}
+
+.font-growth-2{
+    font-size: 68px;
+}
+
+
+.font-growth-3{
+    font-size: 68px;
+}
+
+.plan-plus{
+    background-color: #ecf0f0;
+    transition: 0.5s ease-in-out;
+}
+
+.growth-text{
+    color:#023247
+}
+
+
+.card-2{
+    background-image: url("../Images/card.png");
+    background-size: contain;
+    transition: 0.5s ease-in-out;
+}
+
+.plan-plus:hover , .card-2:hover{
+    transform: scale(1.09);
+}

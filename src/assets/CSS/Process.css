@@ -1,0 +1,24 @@
+.process-container{
+    background-color: #023247;
+}
+
+.process-1, .process-2, .process-3{
+    background-color: #0c3a4e;
+    transition: 0.5s ease-in-out;
+}
+
+.process-1:hover, .process-2:hover, .process-3:hover{
+    transform: scale(0.90);
+}
+
+/* .process-text-1{
+    font-size: 80px;
+} */
+
+.process-text-1 {
+    font-size: 5rem; /* Adjust the size as needed */
+    font-weight: bold;
+    background: linear-gradient(to bottom, white 30%, rgba(12, 58, 78, 0.8) 70%, #0c3a4e 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}

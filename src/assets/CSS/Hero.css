@@ -1,0 +1,20 @@
+.hero-input{
+    border: none;
+    outline: none;
+}
+
+.hero-input-div{
+    border : 1px solid grey;
+    width: 65%;
+}
+
+@media only screen  and (max-width:700px){
+   .hero-text{
+    font-size: 40px !important;
+   } 
+
+   .hero-input-div{
+    width: 100%;
+   }
+
+}

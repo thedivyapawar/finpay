@@ -1,0 +1,5 @@
+@media only screen  and (max-width:900px) and (min-width:770px){
+    .logo{
+        width: 10px !important;
+    }
+ }
