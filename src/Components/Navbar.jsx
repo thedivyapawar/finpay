@@ -8,7 +8,9 @@ function Navbar(){
         
         <nav className="navbar navbar-expand-lg bg-body-tertiary my-2">
         <div className="container-fluid">
-            <img src={logo} alt="logo" width="40px" className="ms-md-5"/>
+            <Link to="/">
+            <img src={logo} alt="logo" width="40px" className="ms-md-5" />
+            </Link>
             <Link className="navbar-brand mx-2 fs-4 mycolor fw-bold" to="/">Finpay</Link>
 
             <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
