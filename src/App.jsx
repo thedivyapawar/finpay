@@ -16,9 +16,11 @@ function App() {
 
   return (
     <>
+    <div className='container-fluid'>
     <Navbar/>
     <Outlet/>
-    <Footer/>    
+    <Footer/>
+    </div>    
     </>
   )
 }
